@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+// section{
+//     // height: 100vh;
+//     // scroll-snap-align: center;
+// }
+
+html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior:smooth;
+}
+body{
+    background-color: #fff;
+    color: black;
+}
