@@ -76,7 +76,7 @@ function folioBody() {
           </div>
         </div>
       </section>
-
+      {/* hello  */}
       {/* About section */}
 
       <section className="container mt-80">
@@ -469,7 +469,9 @@ function folioBody() {
                 </li>
               </ul>
             </div>
-            <div className="col-sm-12 col-md-4"><h1>Hello</h1></div>
+            <div className="col-sm-12 col-md-4">
+              <h1>Hello</h1>
+            </div>
           </div>
         </div>
 
