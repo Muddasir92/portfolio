@@ -8,7 +8,7 @@ function folioBody() {
     <>
       <section className="container  home " id="home">
         <div className="switch">
-          Dark Mode
+          Dark mooood
           <span>OFF</span>
         </div>
         <div className=" maindiv  row  ">
