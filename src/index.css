@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+    font-size: 1rem;
+    scroll-padding-top: 70px;
+}
 body{
+    font-family:   'roboto', sans-serif ;
+    
     background-color: rgb(231, 224, 239);
 }
