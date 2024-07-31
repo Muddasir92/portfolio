@@ -167,7 +167,7 @@ function folioBody() {
               <hr className="block block-blue block-short block-center" />
             </div>
             <div className="col">
-              <div className="mt-4 mb-1 ">
+              <div className="mt-4 mb-1 skill-title ">
                 <span>HTML</span>
                 <span className="float-right"> 80%</span>
               </div>
@@ -183,7 +183,7 @@ function folioBody() {
               </div>
             </div>
             <div className="col">
-              <div className="mt-4 mb-1">
+              <div className="mt-4 mb-1 skill-title">
                 <span>CSS</span>
                 <span className="float-right"> 70%</span>
               </div>
@@ -199,7 +199,7 @@ function folioBody() {
               </div>
             </div>
             <div className="col">
-              <div className="mt-4 mb-1">
+              <div className="mt-4 mb-1 skill-title">
                 <span>BOOTSTRAP</span>
                 <span className="float-right">65%</span>
               </div>
@@ -215,7 +215,7 @@ function folioBody() {
               </div>
             </div>
             <div className="col">
-              <div className="mt-4 mb-1">
+              <div className="mt-4 mb-1 skill-title">
                 <span>JAVASCRIPT</span>
                 <span className="float-right">55%</span>
               </div>
@@ -231,7 +231,7 @@ function folioBody() {
               </div>
             </div>
             <div className="col">
-              <div className="mt-4 mb-1">
+              <div className="mt-4 mb-1 skill-title">
                 <span>REACT</span>
                 <span className="float-right">55%</span>
               </div>
@@ -247,7 +247,7 @@ function folioBody() {
               </div>
             </div>
             <div className="col">
-              <div className="mt-4  mb-1">
+              <div className="mt-4  mb-1 skill-title">
                 <span>MONGODB</span>
                 <span className="float-right"> 50%</span>
               </div>
