@@ -99,7 +99,7 @@ button[type="submit"] {
   width: 70px;
   height: 5px;
   border: 1px;
-  background-color: #ea4492;
+  background-color: rgb(157, 103, 211);
 }
 
 .block-light {
@@ -109,7 +109,7 @@ button[type="submit"] {
   background-color: #428cd4;
 }
 .block-purple {
-  background-color: #8b4c70;
+  background-color: rgb(157, 103, 211);
 }
 .home {
   margin-top: 20px;
@@ -195,6 +195,7 @@ button[type="submit"] {
 }
 .timeline {
   margin: 20px;
+  margin-right: 0px;
 }
 .timeline-item::before {
   content: " ";

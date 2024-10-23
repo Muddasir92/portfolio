@@ -7,10 +7,13 @@ import EmailPic from "/src/assets/mail.jpg";
 function folioBody() {
   return (
     <>
+      
       <section className="container  home " id="home">
+
         <div className="switch">
-          Dark mooood
-          <span>OFF</span>
+          {/* Dark mooood */}
+          {/* <span>OFF</span> */}
+          console.log("hello");
         </div>
         <div className=" maindiv  row  ">
           <div className="col  ">
