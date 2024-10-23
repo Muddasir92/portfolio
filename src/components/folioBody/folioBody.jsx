@@ -13,7 +13,7 @@ function folioBody() {
         <div className="switch">
           {/* Dark mooood */}
           {/* <span>OFF</span> */}
-          console.log("hello");
+          {/* console.log("hello"); */}
         </div>
         <div className=" maindiv  row  ">
           <div className="col  ">
